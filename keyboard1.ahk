@@ -11,18 +11,18 @@ e::run, C:\Windows\System32\cmd.exe
 r::Run, devmgmt.msc
 t::^c
 z::^v
-u::send, Bzo1locE
-i::send, gasper06
-o::send, gasper2006
-p::send, gasper2012
+u::send,
+i::send,
+o::send,
+p::send,
 a::run, C:\Program Files (x86)\Minecraft Launcher\MinecraftLauncher.exe
 s::send /party invite
 d::run, C:\Program Files (x86)\Arobas Music\Guitar Pro 7\GuitarPro7.exe
 f::run, C:\Program Files\iTunes\iTunes.exe
 g::run, C:\Program Files (x86)\Microsoft Office\root\Office16\winword.exe
-h::sendRaw, g.lenic2006@gmail.com
-j::sendRaw, caspergamingy@gmail.com
-k::sendRaw, totalyahuman@hotmail.com
+h::sendRaw,
+j::sendRaw,
+k::sendRaw,
 y::send, GG
 x::run, C:\Users\ca5p3r\AppData\Local\Discord\Update.exe --processStart Discord.exe
 c::run, https://youtube.com
